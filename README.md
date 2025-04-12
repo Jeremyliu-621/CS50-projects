@@ -23,7 +23,7 @@ _Winter 2024_
 - Growing appreciation for code.
 - University prep.
 
-### Features
+## Features
 
 My first relapse of coding since high school courses!
 
